@@ -6,8 +6,8 @@
 ![h3](h3_actions.png)
 
 <div style="display: flex; gap: 10px;">
-  <img src="h3_censoring.png" width="300" height=500>
-  <img src="h3_actions.png" width="300" height=500>
+  <img src="h3_censoring.png" width="600" height=1000>
+  <img src="h3_actions.png" width="600" height=1000>
 </div>
 
 <!---
