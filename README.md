@@ -4,6 +4,12 @@
 ![h3](h3_censoring.png)
 <img src="h3_censoring.png" height="500">
 ![h3](h3_actions.png)
+
+<div style="display: flex; gap: 10px;">
+  <img src="h3_censoring.png" width="300" height=500>
+  <img src="h3_actions.png" width="300" height=500>
+</div>
+
 <!---
 ![CongaPartyParrotGIF](https://user-images.githubusercontent.com/25611730/195378348-6238235f-87a2-4679-b6c6-9eefb8dc3846.gif)
 ![CongaPartyParrotGIF](https://user-images.githubusercontent.com/25611730/195378348-6238235f-87a2-4679-b6c6-9eefb8dc3846.gif)
