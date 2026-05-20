@@ -3,7 +3,7 @@
 <img src="h3_censoring.png" width="600" height=1000>
 <img src="h3_actions.png" width="600" height=1000>
 
-
+![Image](hub_optimization.png)
 
 
 <!---
