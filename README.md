@@ -1,6 +1,8 @@
 # I do stuff with data🚀
 
 
+![h3](h3_censoring.png)
+<img src="h3_censoring.png" height="500">
 ![h3](h3_actions.png)
 <!---
 ![CongaPartyParrotGIF](https://user-images.githubusercontent.com/25611730/195378348-6238235f-87a2-4679-b6c6-9eefb8dc3846.gif)
